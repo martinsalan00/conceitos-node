@@ -37,8 +37,3 @@ Ele é responsável por fornecer todos os dados para o frontend e manipular as i
 💡 **Dica:** O servidor responde automaticamente em JSON e lida com BigInt.
 
 ---
-
-## 📜 **Licença**  
-📝 Licença MIT – use, modifique e contribua!  
-
----
